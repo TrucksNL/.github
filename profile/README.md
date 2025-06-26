@@ -3,9 +3,9 @@
 Our products:
 
 [![Trucks.nl](../tnl-logo.png)<br/>
-Trucks.nl](https://www.trucks.nl/) The #1 Truck trading platform of Europe
+Trucks.nl](https://www.trucks.nl/) The #1 truck trading platform of Europe
 
 ---
 
-[![Tradeworld](../tw-logo.png)<br/>
-Tradeworld](https://tradeworld.eu/)
+[![TradeWorld](../tw-logo.png)<br/>
+TradeWorld](https://tradeworld.eu/) ®
